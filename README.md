@@ -1,4 +1,15 @@
-# getme.vc
-User friendly way to get your first Verifiable Credentials in SSI world
+# What is Verifiable Credential?
 
-Repository with home page
+TODO
+
+# Why I need Verifiable Credential?
+
+TODO
+
+# Where I can store my Verifiable Credential?
+
+Minerva - new form of digital wallet
+
+# Where I can use my Verifiable Credential?
+
+TODO
