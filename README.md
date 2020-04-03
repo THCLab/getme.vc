@@ -1,5 +1,6 @@
 # Get Verifiable Credential
 
+* DIP - COVID-19
 * Email
 * Facebook
 * LinkedIn
